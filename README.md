@@ -5,11 +5,11 @@
 ### Box 
 
 
-      *  Layout
-      *  box model
-      *  Mark Up
-      *  embedding
-      *  ID & classes
-      *  selecting elements
-      *  children, descendent
-      *  nth
+*  Layout
+*  box model
+*  Mark Up
+*  embedding
+*  ID & classes
+*  selecting elements
+*  children, descendent
+*  nth
