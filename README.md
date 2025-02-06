@@ -5,8 +5,6 @@
 ### Box 
 
 
-<body>
-    <div id="wrapper">
       *  Layout
       *  box model
       *  Mark Up
@@ -15,6 +13,3 @@
       *  selecting elements
       *  children, descendent
       *  nth
-    </div>
-</body>
-</html>
