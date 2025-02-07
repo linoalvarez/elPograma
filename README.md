@@ -25,13 +25,9 @@
     * selecting elements (for styling purposes)
     * nth
 
-
-# 
-
-
 # To do
 
-   * Crear lista de proyectos. 
-   * Anadir columnas que contengan las propiedades necesarias para hacer el proyecto
+* Crear lista de proyectos. 
+* Anadir columnas que contengan las propiedades necesarias para hacer el proyecto
 
-    * Crear niveles / challenge Levels  S,M,L,XL
+* Crear niveles / challenge Levels  S,M,L,XL
