@@ -10,7 +10,7 @@
 ## Box 
     
 * box model
-        * content / padding / border / margin
+    * content / padding / border / margin
 
 * Mark Up
     * embedding
@@ -27,7 +27,15 @@
 
 # To do
 
-* Crear lista de proyectos. 
+* Crear lista de proyectos
 * Anadir columnas que contengan las propiedades necesarias para hacer el proyecto
+* glosario de properties 
 
 * Crear niveles / challenge Levels  S,M,L,XL
+
+
+
+examples / demos
+
+01-box-model_1_START.html
+01-box-model_2_END.html
