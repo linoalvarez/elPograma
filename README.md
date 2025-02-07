@@ -11,6 +11,7 @@
     
 * box model
     * content / padding / border / margin
+    
     illustration to demo the different zones in the box 
      
 
