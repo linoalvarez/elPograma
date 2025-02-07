@@ -7,7 +7,7 @@
         * analysis of different media layouts
             * business cards / restaurant menus / textbooks
 
-### Box 
+## Box 
     
 * box model
         * content / padding / border / margin
@@ -26,8 +26,12 @@
     * nth
 
 
+# 
 
-    Crear lista de proyectos. 
-    Anadir columnas que contengan las propiedades necesarias para hacer el proyecto
 
-    Crear niveles / challenge Levels  S,M,L,XL
+# To do
+
+   * Crear lista de proyectos. 
+   * Anadir columnas que contengan las propiedades necesarias para hacer el proyecto
+
+    * Crear niveles / challenge Levels  S,M,L,XL
