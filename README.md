@@ -28,6 +28,11 @@
     * selecting elements (for styling purposes)
     * nth
 
+* Grid
+    * parent / child
+    * flow
+    * grid-column: x/x & grid-row: x/x
+
 # To do
 
 * Crear lista de proyectos
