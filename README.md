@@ -1,19 +1,17 @@
 # elPograma
 
 ## Layout
-* Layout
+* Visual Layout
     * good look at different layouts
         * intro to visual grid with examples
         * analysis of different media layouts
             * business cards / restaurant menus / textbooks
 
-## Box 
+## Everything is a Box 
     
 * box model
     * content / padding / border / margin
-
-    illustration to demo the different zones in the box. not to scale. not the typical use either
-     
+    * illustration     
 
 * Mark Up
     * embedding
@@ -23,7 +21,8 @@
     * floats
 
 * ID & classes - attributes of the tags
-    * connect HTML & CSS
+    * connect HTML & CSS 
+        * same file vs outside link (multiple files)
 
 * CSS
 
