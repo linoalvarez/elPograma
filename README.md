@@ -19,7 +19,11 @@
     * embedding
     * children, descendent
 
+* images / figures / links
+    * floats
+
 * ID & classes - attributes of the tags
+    * connect HTML & CSS
 
 * CSS
 
