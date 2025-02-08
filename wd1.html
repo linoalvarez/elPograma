@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BoxModel Demo</title>
     <style>
-        .content {background-color: hsl(195, 30%, 64%);}
-        .padding {background-color: hsl(71, 37%, 64%);}
-        .border {background-color: hsl(40, 66%, 71%);}
-        .margin {background-color: hsl(30, 39%, 53%);}
+        .content-color {background-color: hsl(195, 30%, 64%);}
+        .padding-color {background-color: hsl(71, 37%, 64%);}
+        .border-color {background-color: hsl(40, 66%, 71%);}
+        .margin-color {background-color: hsl(30, 39%, 53%);}
 
         .content {padding: 2rem;}
         .padding {padding: 2rem;}
@@ -16,26 +16,41 @@
         .margin {
             padding: 2rem; 
             width: max-content; 
-            margin: auto;
-            margin-bottom: 2rem;
+            margin: 2rem auto;
         }
 
+        h1 {
+            text-align: center;
+        }
+
+        .leyend {
+            width: 20rem;
+            margin: auto;
+        }
+
+        .leyend div {
+            text-align: center;
+            padding: 0.3rem;
+        }
     </style>
 </head>
 <body>
-    <div class="margin">
-        <div class="border">
-            <div class="padding">
-                <div class="content">content</div>
+    <h1>Box Model</h1>
+    <div class="margin margin-color">
+        <div class="border border-color">
+            <div class="padding padding-color">
+                <div class="content content-color">content</div>
             </div>
         </div>
     </div>
-    <div class="margin">
-        <div class="border">
-            <div class="padding">
-                <div class="content">content</div>
-            </div>
-        </div>
+    <div class="leyend">
+        <div class="margin-color">margin</div>
+        <div class="padding-color">padding</div>
+        <div class="border-color">border</div>
+        <div class="content-color">content</div>
+        <div class="border-color">border</div>
+        <div class="padding-color">padding</div>
+        <div class="margin-color">margin</div>
     </div>
 </body>
 </html>

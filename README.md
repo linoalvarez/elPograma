@@ -11,8 +11,8 @@
     
 * box model
     * content / padding / border / margin
-    
-    illustration to demo the different zones in the box 
+
+    illustration to demo the different zones in the box. not to scale. not the typical use either
      
 
 * Mark Up
