@@ -5,6 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BoxModel Demo</title>
     <style>
+
+        body {
+            text-align: center;
+        }
+
         .content-color {background-color: hsl(195, 30%, 64%);}
         .padding-color {background-color: hsl(71, 37%, 64%);}
         .border-color {background-color: hsl(40, 66%, 71%);}
@@ -29,16 +34,20 @@
         }
 
         .leyend div {
-            text-align: center;
             padding: 0.3rem;
+        }
+
+        .margin span {
+            position: relative;
+            bottom: 1rem;
         }
     </style>
 </head>
 <body>
     <h1>Box Model</h1>
-    <div class="margin margin-color">
-        <div class="border border-color">
-            <div class="padding padding-color">
+    <div class="margin margin-color"><span>margin</span>
+        <div class="border border-color"><span>border</span>
+            <div class="padding padding-color"><span>padding</span>
                 <div class="content content-color">content</div>
             </div>
         </div>
